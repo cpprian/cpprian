@@ -5,20 +5,11 @@
 
 ## I'm a Junior Software Developer, currently working only on my own projects!
 
-- 🌱 I’m currently learning few topics during my gap year
-  - System Design
-  - Algorithms
-  - Artificial Intelligence
-  - Software Engineering
-- 🥰 Fav lang
-  - Rust
-  - Go
-- Also I'm programming in
-  - Python (for ml and automation)
-  - C++ (competitive programming for now)
-  - Kotlin & Swift
-  - NextJs
-  - Docker & Kubernetes
+|  |  |
+|---|---|
+| 🌱 I’m currently learning | System Design, Algorithms, Artificial Intelligence, Software Engineering |
+| 🥰 Fav lang | Rust, Go |
+| 🚀 Tech stack | Python, C++, Kotlin, Swift, Nextjs, Docker + Kubernetes |
 #### 🔭 I'm looking for Junior Software Engineer opportunities
 
 ## 🤓 Currently reading these books
