@@ -8,7 +8,7 @@
 |  |  |
 |---|---|
 | 🌱 I’m currently learning | System Design, Algorithms, Artificial Intelligence, Software Engineering |
-| 🥰 Fav lang | Rust, Go |
+| 🥰 Favorite languages | Rust, Go |
 | 🚀 Tech stack | Python, C++, Kotlin, Swift, Nextjs, Kubernetes + Helmfile |
 #### 🔭 I'm looking for Junior Software Engineer opportunities
 
