@@ -36,3 +36,6 @@
 - 🎤 Singing in a band
 - 🎬 Creating animaitons in Blender
 - 📈 Launch a startup
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=tokyonight)
+
