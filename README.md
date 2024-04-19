@@ -1,5 +1,7 @@
 ### Hi there, I'm Cyprian 👋
-![Uchuu Patrol Luluco](https://github.com/cpprian/cpprian/Uchuu-Patrol-Luluco.gif)
+<p align="center">
+<img src="https://github.com/cpprian/cpprian/blob/main/Uchuu-Patrol-Luluco.gif" />
+</p>
 
 ## I'm a Junior Software Developer, currently working only on my own projects!
 
