@@ -1,6 +1,6 @@
 ### Hi there, I'm Cyprian 👋
 <p align="center">
-<img src="https://github.com/cpprian/cpprian/blob/main/Uchuu-Patrol-Luluco.gif" />
+<img src="https://github.com/cpprian/cpprian/blob/main/intro.gif" />
 </p>
 
 ## I'm a Junior Software Developer, currently working only on my own projects!
