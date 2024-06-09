@@ -20,10 +20,3 @@
 ## 💃 My hobbies
 - 🎨 Digital painting (I'm not good at it, but I'm trying)
 - 🎸 Playing electric guitar (same goes here)
-
-## Some day I wanna try
-- 🎮 Game development in Godot
-- ⚡️ Creating production code in Ziglang
-- 🎤 Singing in a band
-- 🎬 Creating animaitons in Blender
-- 📈 Launch a startup
