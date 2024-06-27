@@ -1,4 +1,4 @@
-### Hi there, I'm Cyprian 👋... junior rust developer!
+### Hi there, I'm junior rust developer!👋
 <p align="center">
 <img src="https://github.com/cpprian/cpprian/blob/main/intro.gif" />
 </p>
