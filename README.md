@@ -7,7 +7,7 @@
 |---|---|
 | 🌱 Self growth in | System Design, Algorithms, Software Engineering |
 | 🥰 Favorite languages | Rust, Go |
-| 🚀 Other solutions that I know | Python, C/C++, Java, Kotlin, Swift, Typescript, React, Kubernetes, MongoDB, PostgreSQL |
+| 🚀 Other solutions that I know | Python, C/C++, Kotlin, Swift, Typescript, React, Kubernetes, MongoDB, PostgreSQL |
 
 ## 🤓 Currently reading these books
   - [Introduction to Algorithms by Thomas H. Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
@@ -19,7 +19,9 @@
 ## 😼 My todo list
 - [ ] learn zig
 - [ ] learn basics of ui/ux and figma
-- [ ] make simple projects (propably todo list app) on each programming languages, to refresh my knowledge
+- [ ] make simple projects on each programming languages, to refresh my knowledge (rust, golang, c++, typescript)
+- [ ] make mobile clone apps using firebase as a backend (kotlin, swift)
+- [ ] create tui_game, allocator, fat16 (zig/rust/c)
 - [ ] solve whole Advent of Code 2024
 - [ ] create projects for each point of list in [Programming challenges](https://github.com/siliciusQ/Programming-challenges-v4.0)
 - [ ] do as most as possible hackathon before I start a new job!
