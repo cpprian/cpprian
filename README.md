@@ -20,7 +20,7 @@
 ## 😼 My todo list
 - [ ] learn zig
 - [ ] learn basics of ui/ux and figma
-- [ ] make simple projects on each programming languages, to refresh my knowledge (rust, golang, c++, typescript)
+- [ ] make simple projects on each programming languages, to refresh my knowledge (rust, golang, c++, typescript, python, kotlin)
 - [ ] make mobile clone apps using firebase as a backend (kotlin, swift)
 - [ ] create tui_game, allocator, fat16 (zig/rust/c)
 - [ ] solve whole Advent of Code 2024
