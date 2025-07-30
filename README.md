@@ -1,6 +1,6 @@
-### Hi there, I'm junior rust developer currently pursuing my master's degree in Computer Science!👋
+### Hi there, I'm a junior rust developer currently pursuing my master's degree in Computer Science!👋
 <p align="center">
-<img src="https://github.com/cpprian/cpprian/blob/main/intro.gif" />
+<img src="https://github.com/cpprian/cpprian/blob/main/intro.jpg" />
 </p>
 
 |  |  |
@@ -10,7 +10,8 @@
 | 🚀 Other solutions that I know | Python, C/C++, Kotlin, Swift, Typescript, React, Kubernetes, MongoDB, PostgreSQL |
 
 ## 🤓 Currently reading these books
-  - [Introduction to Algorithms by Thomas H. Cormen](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+  - [Drogi i bezdroża polskich przemian Witold Kieżun](https://anabaza.pl/ksiazka-drogi-i-bezdroza-polskich-przemian)
+  - [HBR at 100](https://www.amazon.com/HBR-at-100/dp/1647824753)
   
 ## 💃 My hobbies
 - 🎨 Digital painting (I'm not good at it, but I'm trying)
