@@ -5,7 +5,7 @@
 
 |  |  |
 |---|---|
-| 🌱 Self growth in | System Design, Algorithms, Software Engineering |
+| 🌱 Self growth in | System Design, Algorithms, Software Engineering, CI/CD |
 | 🥰 Favorite languages | Rust, Go |
 | 🚀 Other solutions that I know | Python, C/C++, Kotlin, Swift, Typescript, React, Kubernetes, MongoDB, PostgreSQL |
 
