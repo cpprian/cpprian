@@ -5,9 +5,9 @@
 
 |  |  |
 |---|---|
-| 🌱 Self growth in | System Design, Algorithms, Software Engineering, CI/CD |
+| 🌱 Self growth in | System Design, Algorithms, Software Engineering, DevOps|
 | 🥰 Favorite languages | Rust, Go |
-| 🚀 Other solutions that I know | Python, C/C++, Kotlin, Swift, Typescript, React, Kubernetes, MongoDB, PostgreSQL |
+| 🚀 Other solutions that I know | Python, C/C++, Typescript, React, Docker, Kubernetes, MongoDB, PostgreSQL |
 
 ## 🤓 Currently reading these books
   - [Drogi i bezdroża polskich przemian - Witold Kieżun](https://anabaza.pl/ksiazka-drogi-i-bezdroza-polskich-przemian)
