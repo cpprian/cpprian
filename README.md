@@ -13,14 +13,11 @@
 
 ## Tech Stack ✨
 
-| 🦀 **Languages** | ⚙️ **DevOps**     | 🧩 **Other Tools** |
-| :------------------------------ | :---------------- | :----------------- |
-| Rust 🦀          | Docker 🐳         | Figma 🎨           |
-| Go 🐹            | Kubernetes ☸️     | Confluence 📘      |
-| Python 🐍        | GitHub Actions 🚀 | Jira 🧭            |
-| C/C++ ⚙️         | Terraform 🌍      | Notion 🪶          |
-| Java ☕️          | Ansible 🔧        | Clockify ⏰           |
-| Ts & React ⚛️ | AWS 🌤️ | Linux 🐧 |
+| **Languages**                              | **DevOps & Cloud**                       | **Tools & Platforms**               |
+| :----------------------------------------- | :--------------------------------------- | :---------------------------------- |
+| Rust 🦀 · Go 🐹 · Python 🐍                | Docker 🐳 · Kubernetes ☸️ · Terraform 🌍 | Jira 🧭 · Confluence 📘 · Notion 🪶 |
+| C/C++ ⚙️ · Java ☕️ · TypeScript & React ⚛️ | AWS ☁️ · Ansible 🔧 · GitHub Actions 🚀  | Figma 🎨 · Clockify ⏰ · Linux 🐧    |
+
 
 ## 🤓 Currently reading these books
 
