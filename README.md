@@ -15,24 +15,23 @@
 
 | **Languages**                              | **DevOps & Cloud**                       | **Tools & Platforms**               |
 | :----------------------------------------- | :--------------------------------------- | :---------------------------------- |
-| Rust 🦀 · Go 🐹 · Python 🐍                | Docker 🐳 · Kubernetes ☸️ · Terraform 🌍 | Jira 🧭 · Confluence 📘 · Notion 🪶 |
-| C/C++ ⚙️ · Java ☕️ · TypeScript & React ⚛️ | AWS ☁️ · Ansible 🔧 · GitHub Actions 🚀  | Figma 🎨 · Clockify ⏰ · Linux 🐧    |
+| Rust 🦀 · Go 🐹 · C/C++ ⚙️                | Docker 🐳 · Kubernetes ☸️ · Terraform 🌍 | Jira 🧭 · Confluence 📘 · Notion 🪶 |
+| Python 🐍 · Java ☕️ · TypeScript & React ⚛️ | AWS ☁️ · Ansible 🔧 · GitHub Actions 🚀  | Figma 🎨 · Clockify ⏰ · Linux 🐧    |
 
 
-## 🤓 Currently reading these books
+## 📚 Currently Reading
 
-- [Drogi i bezdroża polskich przemian - Witold Kieżun](https://anabaza.pl/ksiazka-drogi-i-bezdroza-polskich-przemian)
-- [Gałczyński Poetry](https://lubimyczytac.pl/ksiazka/214049/poezje)
-  
-## 💃 My hobbies
+> “A reader lives a thousand lives before he dies.” — *George R.R. Martin*
 
-- 🎨 Digital painting
-- 🎸 Playing on an electric guitar
+- **Drogi i bezdroża polskich przemian** — *Witold Kieżun*  
+  *Exploring leadership, transformation, and post-systemic change in Poland.*
+- **Gałczyński: Poetry**  
+  *Language and imagination as a bridge between logic and creativity.*
 
-## 😼 My todo list
+---
 
-- [ ] learn zig
-- [ ] learn basics of ui/ux and figma
-- [ ] solve whole Advent of Code 2024
-- [ ] start my blog!
-- [ ] make whole pro/g/ramming challenges
+## 🎨 Beyond Code
+
+I express creativity through **digital painting** and **electric guitar** —  
+art and music help me keep balance, focus, and fresh perspective in technical work.
+
