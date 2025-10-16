@@ -95,6 +95,9 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://www.notion.com/" target="_blank" rel="noreferrer">
     <img src="public/notion.svg" alt="notion" width="40" height="40"/>
   </a>
+  <a href="https://www.overleaf.com/" target="_blank" rel="noreferrer">
+    <img src="public/overleaf.svg" alt="overleaf" width="40" height="40"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="public/figma.svg" alt="figma" width="40" height="40"/>
   </a>
