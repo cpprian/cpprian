@@ -1,12 +1,26 @@
 # Hi there, I'm Cyprian! 👋
 
-## Building Reliable Systems with Rust 🦀 | ⚙️ Passionate about DevOps & Cloud Computing | 🚀 Hackathon Lover | 🎓 Pursuing Master’s in CS
+I'm a **passionate software engineer** with a love for building **robust and scalable applications** with **automation**. I enjoy working with a variety of **programming languages** and **frameworks**, and I'm always eager to learn new technologies.
 
-![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
-<!-- <p align="center">
-<img src="https://github.com/cpprian/cpprian/blob/main/intro.jpg" style="width:30%; height: auto"/>
-</p> -->
+---
+
+## 💻 What I Do
+- Build **efficient, scalable applications** using modern technologies.
+- Dive deep into **mathematical modeling and algorithms** (my Master's degree) to optimize:
+  - Energy consumption ⚡  
+  - Task scheduling ⏱️  
+  - Resource allocation 📦
+- Explore **cybersecurity** (for the aim of securing systems and data) and **artificial intelligence** (especially to find the quickest and most efficient solutions to complex problems).
+
+---
+
+## 🌱 My Philosophy
+I always love to dig into **diverse fields of knowledge** to create something **useful, beautiful, and efficient**.  
+
+<p align="center">
+  <img src="intro.jpg" style="width:30%; height: auto"/>
+</p>
+
 
 ## 💻 Tech Stack & Tools
 
@@ -120,3 +134,6 @@
 
 I express creativity through **digital painting** and **electric guitar** —  
 art and music help me keep balance, focus, and fresh perspective in technical work.
+
+![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
