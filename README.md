@@ -4,23 +4,13 @@ I'm a **passionate software engineer** with a love for building **robust and sca
 
 ---
 
-## 💻 What I Do
+## ✨ What I Do
 - Build **efficient, scalable applications** using modern technologies.
 - Dive deep into **mathematical modeling and algorithms** (my Master's degree) to optimize:
   - Energy consumption ⚡  
   - Task scheduling ⏱️  
   - Resource allocation 📦
 - Explore **cybersecurity** (for the aim of securing systems and data) and **artificial intelligence** (especially to find the quickest and most efficient solutions to complex problems).
-
----
-
-## 🌱 My Philosophy
-I always love to dig into **diverse fields of knowledge** to create something **useful, beautiful, and efficient**.  
-
-<p align="center">
-  <img src="intro.jpg" style="width:30%; height: auto"/>
-</p>
-
 
 ## 💻 Tech Stack & Tools
 
@@ -119,6 +109,18 @@ I always love to dig into **diverse fields of knowledge** to create something **
   </a>
 </div>
 
+![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
+
+---
+
+## 🌱 My Philosophy
+I always love to dig into **diverse fields of knowledge** to create something **useful, beautiful, and efficient**.  
+
+<p align="center">
+  <img src="intro.jpg" style="width:30%; height: auto"/>
+</p>
+
 ## 📚 Currently Reading
 
 > “A reader lives a thousand lives before he dies.” — *George R.R. Martin*
@@ -134,6 +136,3 @@ I always love to dig into **diverse fields of knowledge** to create something **
 
 I express creativity through **digital painting** and **electric guitar** —  
 art and music help me keep balance, focus, and fresh perspective in technical work.
-
-![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
