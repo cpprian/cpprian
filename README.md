@@ -82,9 +82,6 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="public/grafana.svg" alt="grafana" width="40" height="40"/>
   </a>
-  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="public/datadog.svg" alt="datadog" width="40" height="40"/>
-  </a>
   <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer">
     <img src="public/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/>
   </a>
