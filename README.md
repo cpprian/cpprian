@@ -2,7 +2,7 @@
 
 ## Building Reliable Systems with Rust 🦀 | ⚙️ Passionate about DevOps & Cloud Computing | 🚀 Hackathon Lover | 🎓 Pursuing Master’s in CS
 
-![Activity](https://github-readme-stats.vercel.app/api?username=cpprian&theme=radical&_border=false&include_all_commits=true&count_private=true)
+![Activity](https://github-readme-stats.vercel.app/api?username=cpprian&theme=dark&_border=false&include_all_commits=true&count_private=true)
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- <p align="center">
