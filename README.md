@@ -2,9 +2,8 @@
 
 ## Building Reliable Systems with Rust 🦀 | ⚙️ Passionate about DevOps & Cloud Computing | 🚀 Hackathon Lover | 🎓 Pursuing Master’s in CS
 
-![Activity](https://github-readme-stats.vercel.app/api?username=cpprian&theme=dark&_border=false&include_all_commits=true&count_private=true)
-![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
 <!-- <p align="center">
 <img src="https://github.com/cpprian/cpprian/blob/main/intro.jpg" style="width:30%; height: auto"/>
 </p> -->
