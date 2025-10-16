@@ -6,7 +6,7 @@ I'm a **passionate software engineer** with a love for building **robust and sca
 
 ## ✨ What I Do
 - Build **efficient, scalable applications** using modern technologies.
-- Dive deep into **mathematical modeling and algorithms** (my Master's degree) to optimize:
+- Dive deep into **mathematical modeling and algorithms** (my Master's degree specialization) to optimize:
   - Energy consumption ⚡  
   - Task scheduling ⏱️  
   - Resource allocation 📦
@@ -108,6 +108,7 @@ I'm a **passionate software engineer** with a love for building **robust and sca
     <img src="public/clockify.svg" alt="clockify" width="40" height="40"/>
   </a>
 </div>
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=cpprian&show_icons=true&theme=gruvbox&border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
