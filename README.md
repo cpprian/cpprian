@@ -6,7 +6,7 @@ I'm a **passionate software engineer** with a love for building **robust and sca
 
 ## ✨ What I Do
 - Build **efficient, scalable applications** using modern technologies.
-- Dive deep into **mathematical modeling and algorithms** (my Master's specialization) to optimize:
+- Dive deep into **mathematical modeling and algorithms** (my Master's degree specialization) to optimize:
   - Energy consumption ⚡  
   - Task scheduling ⏱️  
   - Resource allocation 📦
