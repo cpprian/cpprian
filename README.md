@@ -67,6 +67,9 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img src="public/githubactions.svg" alt="githubactions" width="40" height="40"/>
   </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
+    <img src="public/argo.svg" alt="argo" width="40" height="40"/>
+  </a>
   <a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer">
     <img src="public/terraform.svg" alt="terraform" width="40" height="40"/>
   </a>
