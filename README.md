@@ -42,6 +42,9 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="public/react.svg" alt="react" width="40" height="40"/>
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="public/flutter.svg" alt="flutter" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="public/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a>
