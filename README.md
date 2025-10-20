@@ -10,7 +10,7 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   - Energy consumption ⚡  
   - Task scheduling ⏱️  
   - Resource allocation 📦
-- Explore **cybersecurity** (for the aim of securing systems and data) and **artificial intelligence** (especially to find the quickest and most efficient solutions to complex problems).
+- Explore **cybersecurity** (the goal is to obtain a diploma of Junior Cybersecurity Analyst on HTB) and **artificial intelligence** (especially to find the quickest and most efficient solutions to complex problems).
 
 ## 💻 Tech Stack & Tools
 
