@@ -21,11 +21,17 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://tokio.rs/" target="_blank" rel="noreferrer">
     <img src="public/tokio.svg" alt="tokio" width="40" height="40"/>
   </a>
+  <a href="https://ziglang.org/" target="_blank" rel="noreferrer">
+    <img src="public/zig.svg" alt="go" width="40" height="40"/>
+  </a>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="public/go.svg" alt="go" width="40" height="40"/>
   </a>
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
     <img src="public/cpp.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c.html" target="_blank" rel="noreferrer">
+    <img src="public/c.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="public/python3.svg" alt="python" width="40" height="40"/>
@@ -33,14 +39,17 @@ I'm a **passionate software engineer** with a love for building **robust and sca
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="public/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
-    <img src="public/c.svg" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="public/ts.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="public/react.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="public/next.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="public/astro.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
     <img src="public/flutter.svg" alt="flutter" width="40" height="40"/>
