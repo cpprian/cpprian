@@ -125,6 +125,7 @@ I'm a **passionate software engineer** with a love for building **robust and sca
 </div>
 <br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=cpprian&theme=gruvbox)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cpprian&layout=compact&theme=gruvbox&border=false&include_all_commits=true)
 
 <!--
